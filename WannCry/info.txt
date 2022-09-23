@@ -1,1 +1,4 @@
-test.txt
+All files will be encrypted when you run this program. Be cautious!
+
+
+运行此程序会导致所有文件都被加密。务必谨慎小心！
